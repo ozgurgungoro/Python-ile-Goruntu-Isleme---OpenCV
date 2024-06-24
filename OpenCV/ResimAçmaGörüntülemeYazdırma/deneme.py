@@ -6,7 +6,7 @@ import numpy as np
 
 # resim = cv2.imread("Logo.png",0)
 
-resim1 = cv2.imread("kus.png",0)    # ,0 işlemi resmi grileştirir   bu işlem boyutta düşme sağlar
+resim1 = cv2.imread("kus.png",1)    # ,0 işlemi resmi grileştirir   bu işlem boyutta düşme sağlar
 resim2 = cv2.imread("Logo.png")
 
 
